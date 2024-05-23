@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Django
+*.pyc
+*.pyo
+__pycache__/
+
+# MongoDB
+*.log
+*.mdb
+*.db
+*.db-shm
+*.db-wal
+
+# React
+node_modules/
+build/
+dist/
+
+# API keys
+.env
+credentials.json
+token.json
+
+# Files
+AmexStatements/*
+Profile.pdf
